@@ -1,0 +1,13 @@
+CLOUD_PROJECT_ID= 'mdm-app-412111'
+ENTERPRISE_NAME = 'enterprises/LC01akhs4e'
+SCOPE = 'https://www.googleapis.com/auth/androidmanagement'
+SERVICE_FILE =  'mdm-app-412111-c37e53d3ec57.json'
+POLICY_NAME = ENTERPRISE_NAME + '/policies/policy15'
+QR_CODE_URL='https://chart.googleapis.com/chart?' 
+DEVICE_URL ='enterprises/LC01akhs4e/devices/'
+PASSWORD = "passwordss"
+POLICY_DB_NAME = "MdmDashboard"
+POLICY_COLLECTION_NAME ="policy_details"
+DEVICE_DB_NAME = "MdmDashboard"
+DEVICE_COLLECTION_NAME ="device_details"
+MONGODB_URL ="mongodb://192.168.193.80:27017/"

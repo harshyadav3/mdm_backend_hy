@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "mdm-app-412111",
+  "private_key_id": "c37e53d3ec578a9b6dccf4eca19ea80e3295babb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCZs0ACQHCxrVja\n8zh6T9vwgCXjXO71k+IrbTfer6JUlb/bDXb0j8cRrHogeB7gOn6MyKA3cCxZdFzd\n1Mf6HkOolpsZ7l4H/epqyCmY6mEZHOoJOOqcvN/J6BvPBICSujtIPv1wHTCjM8N4\nNDOewA6lcce47nUWDgHgqw3UUTvanYSabvPy5xiuJBTIU1h0Bir9ia/HzlGYJ6R6\nI63a7kelMWXawEbXPuKhbeT086kJsVf0y3wixjRrtX45VXxGeHz4a5vetNvoLsbe\nK/LLuL2W5VUwylpU56zRM4ScGNtb38m4KSAi5+GRuCXcwq2WCaWEfNg8zABvfKoJ\nvrQkFeeBAgMBAAECggEADAPg039vtkDaDioVScdHmkI3GmvMm/k2vpshhiouUA5x\nmqr8ZM6yJF+NuU9ENDzEx8/aaa4+YuY5AqsvnUETnCPdD00WOYNP+Y9lyqs7C/Ht\nGbhC67dk7ZO6smQ+HAcS7oLkedWbIVonXa43ATuVgx/YTRlwoPJXYAjL+/adumkw\ncj9x6x5S1jMcxZfmLxlt3s1woEM1ONltpL3OklVnojRDxKxnFbcbZanF+uffB3U/\ndrh3QjC6W2LwoUZiG1iPGTqwZTEDbF06erl1Eie+crkKKjmqAU7Uasde9NuRW1rF\nW3rGtyS61FM6oYbmixSyBuhifBfXzdVI8GDlriX8QQKBgQDS4QjAfO7R4kYGnHxw\nlcbMDZRk8T34TSG//tzJCv0X6vz6xWgTiC9aRCAPM1yRNs6cMrIw6ABKvgBA+K7k\nxYLADFDcoidO8907AJ9GF+t64Jh5l5fiKQzF6UKu2Vz3V99G4JlPcgjTvdJpl15Y\njwaeIhzrjC8oPt7MG2Az8LPnewKBgQC6ljoFM5ll6SbSQN9ueV6z6aL47JkwZVBm\nu03sev8UUvRR2ixHq5LBSlZeE7nvPh/y9xv0CAFog3gyVCC/EpNbdCuJCVCEnFdH\n1I7sZuOdz9Ry3FLgrWmRCgzPjZnXW4A8VWV97TiozFG4Ww/SSj90p+QDLATnk5SS\n+Yzji90+MwKBgE84Ur1dMaqPQpdBOk5hNel6QIEbT5h0AXXLHM453pKZqKfceRi9\nVGyooxKSzPeQi1WKhf5xaYqqjhXaVnmC6XeUKNx53iJ+4mFD/pGqcsAal602EczY\ndv/yfSaKaa5RyIMr5Ow/fqls6hrYzoyeTnIhhpPGegC4faJXtnBMwIj5AoGBAIDw\nma3Ih6QmZ756OC0W0HwR456TmhUYnmQv4dye7rEz1kTOOTVZ+rN6VI70oNQUoW18\nmKOd+KMp3yEgg/SmuJBFimRLvIm3pJUt7YquW3NOEOlDGj7Ld51UTaAMoZhyUf7f\noKBSE4qKj5qPyzIuPwW1k9shS05g7RZYP6VrnPuDAoGBAIGY1vtF9H0DhQTjcToa\nT/jhpIRvuJkzPX4GhegguscvDhb+3Ai3rrLEw1GHjHub6rCeAQpcPaJpAkZhhWa2\nnw70hH/4dMKStRsFVW44M3U8rGoQCp6ZrbKKEiQBcIY9/PTF0Er2bPOtxcGWfXkz\nTNcvxOOyf1DrxlTkL680N7mr\n-----END PRIVATE KEY-----\n",
+  "client_email": "mdm-testing@mdm-app-412111.iam.gserviceaccount.com",
+  "client_id": "112361779322074067229",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mdm-testing%40mdm-app-412111.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+
